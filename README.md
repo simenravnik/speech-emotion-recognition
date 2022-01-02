@@ -3,8 +3,11 @@
 ## Project structure
 
 `recognition.ipynb` - The main implementation file
+
 `report.pdf` - Written report about our research
+
 `visualiztions/` - Folder containing the visualizations and plots used in report.pdf
+
 `data/` - Containing voice data from actors (RAVDESS)
 
 ## Implementation
